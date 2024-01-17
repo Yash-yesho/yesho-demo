@@ -1,3 +1,3 @@
 # yesho-demo
-This is my firts Git Repository
+This is my firts Git Repository.
 Author-Yash bhandari.
